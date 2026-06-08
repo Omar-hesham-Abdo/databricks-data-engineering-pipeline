@@ -14,7 +14,9 @@ The pipeline is orchestrated using Databricks Workflows and scheduled for daily 
 
 ## Architecture
 
-![Pipeline Architecture](architecture/pipeline_architicture.png)
+
+![pipeline_architicture](https://github.com/user-attachments/assets/da186c39-b9d3-4ebb-8005-a400b88d1579)
+
 
 ### Pipeline Flow
 
